@@ -1,0 +1,17 @@
+.result-table {
+  box-shadow: 2px 2px 10px 10px whitesmoke;
+}
+
+.result-tr {
+  transition: all 0.3s linear;
+}
+
+.result-tr:hover {
+  box-shadow: 2px 2px 4px 4px whitesmoke;
+  transform: scale(0.98);
+}
+
+.table {
+    border-collapse: separate;
+    border-spacing:0 5px;
+}
